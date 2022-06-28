@@ -9,7 +9,7 @@ ctrl_sprintonmovement:0
 ctrl_moveStickVisible:1
 gfx_thumbstickopacity:0.5
 ctrl_defaultMoveStickVisible:1
-ctrl_enableNewTouchControlSchemes:0
+ctrl_enableNewTouchControlSchemes:1
 mp_server_visible:1
 mp_xboxlive_visible:1
 mp_nex_visible:1
